@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  ZYNavigationItemSpace
+//
+//  Created by 石志愿 on 2017/9/27.
+//  Copyright © 2017年 石志愿. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIButton+ZYHitRect.h"
+#import "UIColor+ZYColor.h"
+
+
+#define kScreen_Width       [UIScreen  mainScreen].bounds.size.width
+
+#endif /* PrefixHeader_pch */
